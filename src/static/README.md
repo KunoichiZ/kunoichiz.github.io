@@ -1,7 +1,7 @@
 # jazminenichols.me
 
 ## Credits
-* All packages in [package.json](./package.json)
+* All packages in [package.json](../package.json)
 * Color scheme used is [bulma-dracula](https://github.com/mazipan/bulma-dracula)
 
 ## Build Setup
