@@ -8,7 +8,7 @@
     "dev": "nuxt src",
     "build": "nuxt build src",
     "start": "nuxt start src",
-    "generate": "nuxt generate",
+    "generate": "nuxt generate src",
     "css-build": "node-sass --omit-source-map-url src/assets/sass/style.scss src/assets/css/styles.css",
     "css-watch": "npm run css-build -- --watch",
     "css-start": "npm run css-watch"
