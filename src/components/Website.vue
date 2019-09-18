@@ -5,7 +5,7 @@
         <div class="card-image">
             <div>
                 <figure>
-                    <img src="~/assets/images/website-screenshot.png" alt="This website's screenshot">
+                    <img src="../assets/images/website-screenshot.png" alt="This website's screenshot">
                 </figure>
             </div>
         </div>

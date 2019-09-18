@@ -5,7 +5,7 @@
         <div class="card-image">
             <div>
                 <figure>
-                    <img src="~/assets/images/magnezone.png" alt="Officer Magnezone avatar">
+                    <img src="../assets/images/magnezone.png" alt="Officer Magnezone avatar">
                 </figure>
             </div>
         </div>

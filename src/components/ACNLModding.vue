@@ -5,7 +5,7 @@
         <div class="card-image">
             <div>
                 <figure>
-                    <img src="~/assets/images/acnl-screenshot.png" alt="ACNL Modding Info screenshot">
+                    <img src="../assets/images/acnl-screenshot.png" alt="ACNL Modding Info screenshot">
                 </figure>
             </div>
         </div>

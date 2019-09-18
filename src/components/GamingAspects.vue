@@ -5,7 +5,7 @@
         <div class="card-image">
             <div>
                 <figure>
-                    <img src="~/assets/images/gaming-aspects-screenshot.png" alt="Gaming Aspects">
+                    <img src="../assets/images/gaming-aspects-screenshot.png" alt="Gaming Aspects">
                 </figure>
             </div>
         </div>

@@ -4,7 +4,7 @@
         <p>This project was an idea that I had for an Animal Crossing New Leaf (ACNL) Modding/Hacking Discord server. <br>I was inspired to make the site because the information in the Discord server was all over the place and really needed a more general place.</p>
         <p>This project was made in combination with Nuxt.js, Vue.js, Bulma, Buefy, FontAwesome, and node-sass. It is hosted on GitHub Pages.</p>
         <p>A link to the project can be found here: <a href="https://acnl-modding.me/" target="_blank">ACNL Modding Info</a></p>
-        <p><img src="~/assets/images/acnl-screenshot.png" alt="ACNL Modding Info screenshot"></p>
+        <p><img src="../../assets/images/acnl-screenshot.png" alt="ACNL Modding Info screenshot"></p>
     </div>
 </template>
 
