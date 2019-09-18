@@ -24,7 +24,7 @@ body {
   width: 100%;
   border-radius: 15px;
   flex: 1;
-  height: 10%;
+  height: 0.5px;
 }
 
 a {
