@@ -1,0 +1,31 @@
+{
+  "name": "new-website2",
+  "version": "0.0.0",
+  "description": "My impeccable Nuxt.js project",
+  "author": "Jazmine Nichols",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt src",
+    "build": "nuxt build src",
+    "start": "nuxt start src",
+    "generate": "nuxt generate",
+    "css-build": "node-sass --omit-source-map-url src/assets/sass/style.scss src/assets/css/styles.css",
+    "css-watch": "npm run css-build -- --watch",
+    "css-start": "npm run css-watch"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.22",
+    "@fortawesome/free-brands-svg-icons": "^5.10.2",
+    "@fortawesome/free-regular-svg-icons": "^5.10.2",
+    "@fortawesome/free-solid-svg-icons": "^5.10.2",
+    "@fortawesome/vue-fontawesome": "^0.1.7",
+    "@nuxtjs/google-analytics": "^2.2.0",
+    "bulma": "^0.7.5",
+    "bulma-dracula": "^1.0.3",
+    "node-sass": "^4.12.0",
+    "nuxt": "^2.9.2",
+    "vue": "^2.6.10",
+    "vue-scrollto": "^2.16.3"
+  },
+  "devDependencies": {}
+}
