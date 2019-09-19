@@ -11,7 +11,7 @@
             <div class="field">
                 <label class="label">Email</label>
                 <div class="control has-icons-left">
-                    <input class="input" type="email" name="email" placeholder="e.g. johndoe@example.com">
+                    <input class="input" type="email" name="_replyto" placeholder="e.g. johndoe@example.com">
                     <span class="icon is-small is-left">
                         <i class="fas fa-envelope"></i>
                     </span>
