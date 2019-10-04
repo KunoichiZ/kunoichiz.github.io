@@ -1,9 +1,10 @@
 {
   "name": "kunoichiz.github.io",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "personal website for Jazmine Nichols",
   "author": "Jazmine Nichols",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
