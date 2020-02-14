@@ -1828,17 +1828,12 @@ builtin-status-codes@^3.0.0:
   resolved "https://registry.yarnpkg.com/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
   integrity sha1-hZgoeOIbmOHGZCXgPQF0eI9Wnug=
 
-bulma-dracula@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/bulma-dracula/-/bulma-dracula-1.0.3.tgz#5fe8c26e10dc475fa643094ef17e1fe5f85ce590"
-  integrity sha512-O01u7y2aXU10+T2A7xhg5APIBRvifyNd8GFm14f5Y6sn0Y/m2An0X57OUWgXp44vGAU4vzcKHSm8PjXATP+lZQ==
+bulma-dracula@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/bulma-dracula/-/bulma-dracula-1.0.4.tgz#34551aff00edc4b3fe85c3ef56e92c661e280e75"
+  integrity sha512-6MHMSEN+okjH8zEWM6Hr77CN3hQF2+PFbcNYjhqhSDdKbe7Fxd9dyI7xVCIWIgQwKSTA6zKxVnqMOWvASrTQqQ==
   dependencies:
-    bulma "^0.7.4"
-
-bulma@^0.7.4:
-  version "0.7.5"
-  resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.7.5.tgz#35066c37f82c088b68f94450be758fc00a967208"
-  integrity sha512-cX98TIn0I6sKba/DhW0FBjtaDpxTelU166pf7ICXpCCuplHWyu6C9LYZmL5PEsnePIeJaiorsTEzzNk3Tsm1hw==
+    bulma "^0.8.0"
 
 bulma@^0.8.0:
   version "0.8.0"
