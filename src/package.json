@@ -28,5 +28,8 @@
     "vue": "^2.6.11",
     "vue-scrollto": "^2.18.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "resolutions": {
+    "**/**/kind-of": "^6.0.3"
+  }
 }
