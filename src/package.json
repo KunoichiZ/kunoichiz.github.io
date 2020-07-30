@@ -30,6 +30,7 @@
   },
   "devDependencies": {},
   "resolutions": {
-    "**/**/kind-of": "^6.0.3"
+    "**/**/kind-of": "^6.0.3",
+    "**/**/dot-prop": "^5.1.1"
   }
 }
