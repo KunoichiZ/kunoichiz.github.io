@@ -26,7 +26,7 @@
     "node-sass": "^4.14.1",
     "nuxt": "^2.14.6",
     "vue": "^2.6.11",
-    "vue-scrollto": "^2.18.2"
+    "vue-scrollto": "^2.19.1"
   },
   "devDependencies": {},
   "resolutions": {
