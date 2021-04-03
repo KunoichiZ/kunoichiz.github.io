@@ -11,7 +11,7 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'og-description', name: 'og:description', content: pkg.description },
-      { hid: 'og-title', property: 'og:title', content: this.title },
+      { hid: 'og-title', property: 'og:title', content: 'Jazmine Nichols\'s website' },
       { hid: 'og-site_name', property: 'og:site_name', content: 'Jazmine Nichols\'s website'},
       { hid: 'og-type', property: 'og:type', content: 'website' }
     ],
