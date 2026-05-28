@@ -25,7 +25,7 @@
     "bulma-dracula": "^1.1.1",
     "node-sass": "^9.0.0",
     "nuxt": "^4.4.6",
-    "vue": "^3.5.34",
+    "vue": "^3.5.35",
     "vue-scrollto": "^2.20.0"
   },
   "devDependencies": {},
